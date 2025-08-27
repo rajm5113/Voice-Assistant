@@ -1,6 +1,6 @@
-Flask
-gradio
-ibm-watson-machine-learning
-whisper
-python-dotenv
-gTTS
+Flask==2.3.3
+gradio==4.31.5
+ibm-watson-machine-learning==1.0.357
+whisper==1.1.10
+python-dotenv==1.0.1
+gTTS==2.5.3
