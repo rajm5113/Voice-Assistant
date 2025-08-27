@@ -1,0 +1,6 @@
+Flask
+gradio
+ibm-watson-machine-learning
+openai-whisper
+python-dotenv
+gTTS
