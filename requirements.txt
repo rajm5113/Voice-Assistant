@@ -1,6 +1,9 @@
+python==3.10.13
 Flask
 gradio
 ibm-watson-machine-learning
 openai-whisper
 python-dotenv
 gTTS
+
+
